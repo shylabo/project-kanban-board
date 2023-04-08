@@ -1,3 +1,7 @@
+# Overview
+
+This is a user-friendly Kanban board application designed for efficient management of your development tasks through intuitive manipulation.
+
 ## webpack
 
 ```
